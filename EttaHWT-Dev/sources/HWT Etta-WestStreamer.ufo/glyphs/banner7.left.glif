@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="banner7.left" format="2">
+  <advance width="198"/>
+  <outline>
+    <contour>
+      <point x="203" y="-214.0" type="line"/>
+      <point x="203" y="920.0" type="line"/>
+      <point x="195" y="920.0" type="line" smooth="yes"/>
+      <point x="53" y="920.0"/>
+      <point x="139" y="667.0"/>
+      <point x="24" y="667.0" type="curve"/>
+      <point x="24" y="39.0" type="line"/>
+      <point x="139" y="39.0"/>
+      <point x="53" y="-214.0"/>
+      <point x="195" y="-214.0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

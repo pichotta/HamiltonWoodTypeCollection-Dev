@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P" format="2">
+  <advance width="624"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="-5" y="-213" type="line"/>
+      <point x="629" y="-213" type="line"/>
+      <point x="629" y="920" type="line"/>
+      <point x="-5" y="920" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

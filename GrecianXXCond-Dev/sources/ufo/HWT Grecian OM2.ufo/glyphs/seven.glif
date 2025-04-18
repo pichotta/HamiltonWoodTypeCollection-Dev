@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="2">
+  <advance width="147"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="10" y="647" type="line"/>
+      <point x="82" y="700" type="line"/>
+      <point x="119" y="700" type="line"/>
+      <point x="137" y="680" type="line"/>
+      <point x="88" y="0" type="line"/>
+      <point x="39" y="0" type="line"/>
+      <point x="94" y="662" type="line"/>
+      <point x="53" y="662" type="line"/>
+      <point x="53" y="475" type="line"/>
+      <point x="10" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="87" y="662" type="line"/>
+      <point x="54" y="662" type="line"/>
+      <point x="54" y="475" type="line"/>
+      <point x="10" y="475" type="line"/>
+      <point x="10" y="700" type="line"/>
+      <point x="35" y="700" type="line"/>
+      <point x="48" y="683" type="line"/>
+      <point x="60" y="700" type="line"/>
+      <point x="89" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="26" y="38" type="line"/>
+      <point x="105" y="38" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="26" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

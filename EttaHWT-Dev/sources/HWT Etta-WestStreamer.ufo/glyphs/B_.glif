@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B" format="2">
+  <advance width="670"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="-5" y="-213" type="line"/>
+      <point x="675" y="-213" type="line"/>
+      <point x="675" y="920" type="line"/>
+      <point x="-5" y="920" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

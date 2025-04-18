@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="2">
+	<advance width="600"/>
+	<unicode hex="0077"/>
+	<anchor x="310" y="0" name="bottom"/>
+	<anchor x="310" y="700" name="top"/>
+	<outline>
+		<component base="W"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

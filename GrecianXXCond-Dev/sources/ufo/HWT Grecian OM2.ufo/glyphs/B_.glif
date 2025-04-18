@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B" format="2">
+  <advance width="174"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="19" y="662" type="line"/>
+      <point x="32" y="662" type="line"/>
+      <point x="32" y="38" type="line"/>
+      <point x="19" y="38" type="line"/>
+      <point x="19" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="161" y="41" type="line"/>
+      <point x="161" y="349" type="line"/>
+      <point x="141" y="370" type="line"/>
+      <point x="161" y="390" type="line"/>
+      <point x="161" y="655" type="line"/>
+      <point x="124" y="700" type="line"/>
+      <point x="19" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="662" type="line"/>
+      <point x="103" y="662" type="line"/>
+      <point x="111" y="662" type="line"/>
+      <point x="111" y="389" type="line"/>
+      <point x="82" y="389" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="351" type="line"/>
+      <point x="111" y="351" type="line"/>
+      <point x="111" y="38" type="line"/>
+      <point x="82" y="38" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="164" y="0"/>
+  <guideline angle="90" x="103" y="0"/>
+  <guideline angle="90" x="124" y="0"/>
+  <guideline angle="90" x="137" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.977,1,1</string>
+  </dict>
+  </lib>
+</glyph>

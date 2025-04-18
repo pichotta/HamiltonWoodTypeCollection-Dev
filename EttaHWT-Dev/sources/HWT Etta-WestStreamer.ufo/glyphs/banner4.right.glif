@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="banner4.right" format="2">
+  <advance width="280"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="-213.0" type="line"/>
+      <point x="29.0" y="-213.0" type="line"/>
+      <point x="29.0" y="-174.0" type="line"/>
+      <point x="122.0" y="-174.0"/>
+      <point x="222.0" y="-101.0"/>
+      <point x="222.0" y="9.0" type="curve"/>
+      <point x="261.0" y="9.0" type="line"/>
+      <point x="261.0" y="698.0" type="line"/>
+      <point x="222.0" y="698.0" type="line"/>
+      <point x="222.0" y="807.0"/>
+      <point x="122.0" y="881.0"/>
+      <point x="29.0" y="881.0" type="curve"/>
+      <point x="29.0" y="920.0" type="line"/>
+      <point x="0.0" y="920.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

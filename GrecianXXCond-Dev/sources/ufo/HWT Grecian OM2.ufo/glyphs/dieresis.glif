@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+  <advance width="129"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="37" y="606" type="line"/>
+      <point x="10" y="606" type="line"/>
+      <point x="10" y="540" type="line"/>
+      <point x="37" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="606" type="line"/>
+      <point x="61" y="606" type="line"/>
+      <point x="61" y="540" type="line"/>
+      <point x="88" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="719" type="line"/>
+      <point x="119" y="748" type="line"/>
+      <point x="78" y="748" type="line"/>
+      <point x="78" y="719" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="719" type="line"/>
+      <point x="55" y="748" type="line"/>
+      <point x="14" y="748" type="line"/>
+      <point x="14" y="719" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w129m37,606l10,606l10,540l37,540m88,606l61,606l61,540l88,540m119,719l119,748l78,748l78,719m55,719l55,748l14,748l14,719</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 560 65</string>
+          <string>vstem -8 64</string>
+          <string>vstem 79 64</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

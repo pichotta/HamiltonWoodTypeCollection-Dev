@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="133"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="72" y="719" type="line"/>
+      <point x="81" y="715" type="line"/>
+      <point x="123" y="764" type="line"/>
+      <point x="95" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="26" y="719" type="line"/>
+      <point x="35" y="716" type="line"/>
+      <point x="68" y="766" type="line"/>
+      <point x="39" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="541" type="line"/>
+      <point x="50" y="538" type="line"/>
+      <point x="105" y="663" type="line"/>
+      <point x="79" y="672" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="541" type="line"/>
+      <point x="17" y="539" type="line"/>
+      <point x="58" y="667" type="line"/>
+      <point x="30" y="675" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w133m72,719l81,715l123,764l95,780m26,719l35,716l68,766l39,780m43,541l50,538l105,663l79,672m10,541l17,539l58,667l30,675</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 546 -21</string>
+          <string>hstem 623 -20</string>
+          <string>vstem -15 66</string>
+          <string>vstem 70 66</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

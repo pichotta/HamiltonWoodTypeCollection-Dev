@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="banner6.right" format="2">
+  <advance width="159"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="-213.0" type="line"/>
+      <point x="37.0" y="-213.0" type="line"/>
+      <point x="140.0" y="-96.0" type="line"/>
+      <point x="140.0" y="802.0" type="line"/>
+      <point x="37.0" y="920.0" type="line"/>
+      <point x="0.0" y="920.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+{
+  "name": "hamiltonwood-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+	"private": true,
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-type-founders/HamiltonWood-Dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-type-founders/HamiltonWood-Dev/issues"
+  },
+	"dependencies": {
+		"colorize": "git+ssh://git@github.com:the-type-founders/colorize.git#v1.0.2"
+	},
+  "homepage": "https://github.com/the-type-founders/HamiltonWood-Dev#readme"
+}
